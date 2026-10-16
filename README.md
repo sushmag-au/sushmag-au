@@ -143,18 +143,6 @@ PHP/Drupal Developer
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sushma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushmag-au&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushmag-au&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ## 🎓 Certifications & Education
 
 - 🏅 **Acquia Certified Site Builder — Drupal 8**
@@ -181,6 +169,5 @@ PHP/Drupal Developer
 
 *"Building accessible, scalable, and future-ready digital platforms — one commit at a time."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sushmag-au&color=0678BE&style=flat-square&label=Profile+Views)
-
 </div>
+
