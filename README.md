@@ -21,7 +21,7 @@ I'm a **Full Stack Developer with 8+ years of experience** specialising in **Dru
 - ☁️ &nbsp;Hands-on with **AWS**, **Acquia Cloud**, **Amazee.io**, Docker, and CI/CD pipelines
 - ♿ &nbsp;Passionate about **WCAG 2.1 AA accessibility** and web standards
 - 🔗 &nbsp;Experienced integrating Drupal with **CRM, ERP, and enterprise service platforms** via REST/JSON:API
-- 🇦🇺 &nbsp;Based in **Wyndham Vale, VIC** · Permanent Resident (Visa 190) · Available for new roles
+- 🇦🇺 &nbsp;Based in **Melbourne, VIC, Australia** · Permanent Resident (Visa 190) · Available for new roles
 
 ---
 
@@ -158,7 +158,7 @@ PHP/Drupal Developer
 |---|---|
 | 📧 Email | [gsushma511@gmail.com](mailto:gsushma511@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/gsushma-au](https://linkedin.com/in/gsushma-au) |
-| 📍 Location | Wyndham Vale, VIC 3024, Australia |
+| 📍 Location | Melbourne, VIC, Australia |
 | 🛂 Work Rights | Permanent Resident · Unlimited rights to work (Visa 190) |
 
 </div>
