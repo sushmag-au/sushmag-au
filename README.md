@@ -66,20 +66,22 @@ I'm a **Full Stack Developer with 8+ years of experience** specialising in **Dru
 ### 🔵 CivicConnect — Headless Drupal 11 Starter Kit
 > A reference implementation of a decoupled CMS architecture for civic and community service portals
 
-[![Drupal Backend](https://img.shields.io/badge/Drupal%2011-Headless%20Backend-0678BE?style=flat-square&logo=drupal&logoColor=white)](https://github.com/sushmag-au/civic-connect-drupal)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://civic-connect-frontend-flame.vercel.app/)
 [![Next.js Frontend](https://img.shields.io/badge/Next.js%2014-Decoupled%20Frontend-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/sushmag-au/civic-connect-frontend)
+[![Drupal Backend](https://img.shields.io/badge/Drupal%2011-Headless%20Backend-0678BE?style=flat-square&logo=drupal&logoColor=white)](https://github.com/sushmag-au/civic-connect-drupal)
 [![JSON:API](https://img.shields.io/badge/JSON%3AAPI-ISR-success?style=flat-square)](https://github.com/sushmag-au/civic-connect-drupal)
 [![WCAG](https://img.shields.io/badge/WCAG%202.1-AA-blue?style=flat-square)](https://github.com/sushmag-au/civic-connect-frontend)
 
+- **Live URL**: [https://civic-connect-frontend-flame.vercel.app](https://civic-connect-frontend-flame.vercel.app/)
 - **Backend**: Drupal 11 + JSON:API + Simple OAuth · Docker (PHP 8.3, Nginx, MySQL 8)
 - **Frontend**: Next.js 14 App Router · TypeScript · Server Components · ISR (60s revalidation)
 - **Patterns**: Metatag-driven SEO, Pathauto clean URLs, CORS-enabled API, config management
 - **Endpoints**: `/jsonapi/node/service` · `/jsonapi/node/news_article` · `/jsonapi/node/event`
 
-| Repo | Description |
-|------|-------------|
-| [civic-connect-drupal](https://github.com/sushmag-au/civic-connect-drupal) | Drupal 11 JSON:API headless backend |
-| [civic-connect-frontend](https://github.com/sushmag-au/civic-connect-frontend) | Next.js 14 decoupled frontend |
+| Repo | Live Demo | Description |
+|------|-----------|-------------|
+| [civic-connect-frontend](https://github.com/sushmag-au/civic-connect-frontend) | [🚀 Open App](https://civic-connect-frontend-flame.vercel.app/) | Next.js 14 decoupled frontend |
+| [civic-connect-drupal](https://github.com/sushmag-au/civic-connect-drupal) | *(Docker / JSON:API)* | Drupal 11 JSON:API headless backend |
 
 ---
 
@@ -105,19 +107,21 @@ I'm a **Full Stack Developer with 8+ years of experience** specialising in **Dru
 ### 🟠 GrantsHub — Community Grants Management Dashboard
 > React 18 SPA for managing community grants — charts, advanced filtering, multi-step form
 
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://grants-portal-react.vercel.app/)
 [![React](https://img.shields.io/badge/React%2018-SPA-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/sushmag-au/grants-portal-react)
 [![Vite](https://img.shields.io/badge/Vite%205-Build-646CFF?style=flat-square&logo=vite&logoColor=white)](https://github.com/sushmag-au/grants-portal-react)
 [![Vitest](https://img.shields.io/badge/Vitest-6%2F6%20Passing-success?style=flat-square)](https://github.com/sushmag-au/grants-portal-react)
 [![Recharts](https://img.shields.io/badge/Recharts-Data%20Viz-22b5bf?style=flat-square)](https://github.com/sushmag-au/grants-portal-react)
 
+- **Live URL**: [https://grants-portal-react.vercel.app](https://grants-portal-react.vercel.app/)
 - **Dashboard**: KPI cards, Recharts BarChart (monthly funding) + PieChart (status breakdown), deadline alerts
 - **Grants Directory**: Search, category + status filter, sortable table, detail view with animated progress bar
 - **Multi-step Form**: 3-step intake using React Hook Form with validation and step progress indicator
 - **State**: React Context + localStorage persistence across sessions
 
-| Repo | Description |
-|------|-------------|
-| [grants-portal-react](https://github.com/sushmag-au/grants-portal-react) | React 18 + Vite community grants dashboard |
+| Repo | Live Demo | Description |
+|------|-----------|-------------|
+| [grants-portal-react](https://github.com/sushmag-au/grants-portal-react) | [🚀 Open App](https://grants-portal-react.vercel.app/) | React 18 + Vite community grants dashboard |
 
 ---
 
